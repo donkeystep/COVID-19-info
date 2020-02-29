@@ -24,12 +24,12 @@
             - этанол спрей
             - УФ лампы с 3 сторон и отражатели на полу/стенах, 30 секунд, глаза закрыть + очки от UVC(маркировка 2-1.2) 
 2. Укреплять иммунитет:
-    * Спать 7-9 часов, как организм просит. Почему это важно: https://youtu.be/qqZYEgREuZ8?t=391
+    * Спать 7-9 часов, как организм просит. [Почему это важно](https://youtu.be/qqZYEgREuZ8?t=391)
     * Фокусировать внимание на хорошем, красивом, приятном, на благодарности к людям, которые делают вам добро.
     * Когда звереете от работы/учёбы - прерываться на хобби, сон, гулять по местам без людей, видеть солнце.
-    * Заниматься лёгкой (!) физкультурой, минут от 15 до 45 в день, можно дома. Чем раньше начнете, тем лучше. 
-        - Пруф (англ): https://www.ncbi.nlm.nih.gov/pubmed/29713319
-        - Мета-анализ 331 работы https://www.ncbi.nlm.nih.gov/pubmed/31921481
+    * Лёгкая (!) физ. нагрузка, минут от 15 до 45 в день, можно дома. Чем раньше начнете, тем лучше. 
+        - [Пруф (англ)](https://www.ncbi.nlm.nih.gov/pubmed/29713319)
+        - [Мета-анализ 331 работы](https://www.ncbi.nlm.nih.gov/pubmed/31921481)
 3. Избегать столпотворений и аптек, наличных денег, общественного транспорта (особенно самолётов), чихающих/кашляющих, осваивать доставку и оплату онлайн
 4. Термически обрабатывать еду
 5. Часто дезинфицировать всё, чего касаешься
@@ -92,20 +92,20 @@
     - И вообще с температурой так же. [Источник](https://aem.asm.org/content/76/12/3943.full)
 - УФ бактерицидный облучатель 30W - 8 секунд если близко, 15 минут на комнату 15м.
 - медь/бронза/латунь - 5 минут 
-    - время инактивации коронавируса на разных поверхностях https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4659470/
+    - [источник: время инактивации коронавируса на разных поверхностях](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4659470/)
 - влажность 50%: инактивация при 20% - 28 дней, при 50% - 3 дня. При 20’C на стальной поверхности
-    - source https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/  
+    - [источник](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/)  
 - озон - концентрации не знаю, эффективен от небольших, но ядовитый
     - человек чувствует от 0.1 ПДК
 ### дезинфектанты - статьи
-- часть 1 https://t.me/lab66/140
-- часть 2 https://t.me/lab66/141
-- часть 3 https://t.me/lab66/150
-- часть 4 https://t.me/lab66/154
+- [часть 1](https://t.me/lab66/140)
+- [часть 2](https://t.me/lab66/141)
+- [часть 3](https://t.me/lab66/150)
+- [часть 4](https://t.me/lab66/154)
 - Действие и экспозиция дезинфектов 
-    - статья и таблица https://t.me/c/1347842745/20614
-    - пост и ещё таблица https://t.me/lab66/109
-- [стойкость эластомеров](http://www.hydropart.ru/tehnicheskie_dokumenti/material/)
+    - [статья и таблица](https://t.me/c/1347842745/20614)
+    - [пост и ещё таблица](https://t.me/lab66/109)
+- [Cтойкость эластомеров](http://www.hydropart.ru/tehnicheskie_dokumenti/material/)
 - [УФ-рециркулятор за 40 минут](https://medium.com/@steanlab/uvc-b0eeb2a5c2d0)
 - [Инструкция по борьбе с ультрафиолетом](https://habr.com/ru/post/432064/)
 - [МЕТОДИЧЕСКИЕ УКАЗАНИЯ... БАКТЕРИЦИДНЫХ ЛАМП ДЛЯ ОБЕЗЗАРАЖИВАНИЯ ВОЗДУХА И ПОВЕРХНОСТЕЙ...](https://zakonbase.ru/content/part/78699?print=1)
@@ -114,17 +114,19 @@
 - общее
     - связывается с ACE2 рецепторами, распространёнными в нижних отделах лёгких, почках, яичках
 - инструкции
-    - руководство для медработников, Роспотребнадзор РФ https://rospotrebnadzor.ru/files/news/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%20%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B.docx
-        - оригинал ВОЗ https://apps.who.int/iris/bitstream/handle/10665/331215/WHO-2019-nCov-IPCPPE_use-2020.1-eng.pdf
+    - [руководство для медработников, Роспотребнадзор РФ](https://rospotrebnadzor.ru/files/news/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%20%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B.docx) 
+        - [оригинал ВОЗ](https://apps.who.int/iris/bitstream/handle/10665/331215/WHO-2019-nCov-IPCPPE_use-2020.1-eng.pdf)
 - исследования
-    - китайских врачей на 1100 пациентов https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1 
+    - [1100 пациентов, Китай](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1) 
         - пониженный иммунитет в 80% случаев, 35% на кислороде, 5% в интенсивной терапии, 1.5% летальность 
         - риск выше для 50+ лет, курящих, еще выше 60+ лет 
         - инкубационный от 0 до 24 дней, медиана 3 дня, заразные в т.ч. без симптомов. 
         - передача воздушно-капельно, контактно рот-нос-глаза, через поверхности до 5 дней, орально-фекально.
-    - возраст, специфичность https://www.preprints.org/manuscript/202002.0258/v1
+    - [72000 пациентов, Китай, The epidemiological characteristics of an outbreak...](https://github.com/cmrivers/ncov/blob/master/COVID-19.pdf)
+        - [анализ: Estimation of risk factors for COVID-19 mortality - preliminary results](https://www.medrxiv.org/content/10.1101/2020.02.24.20027268v1)
+    - [возраст, специфичность](https://www.preprints.org/manuscript/202002.0258/v1)
         - раса и наличие рака не влияет на экспрессию ACE2
         - с возрастом экспрессия ACE2 увеличивается в 1.2 раза за +10 лет.
-- отчеты ВОЗ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+- [отчеты ВОЗ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) 
     - началось в начале декабря
-    - 16 фев 2020 https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200216-sitrep-27-covid-19.pdf?sfvrsn=78c0eb78_2
+    - [16 фев 2020](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200216-sitrep-27-covid-19.pdf?sfvrsn=78c0eb78_2)
