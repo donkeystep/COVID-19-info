@@ -5,8 +5,8 @@
 - значительная часть информации из канала [Телеграм Научный + Технический - Хроники хабрахимика - Sci DIY - Наукоёмкое Самоделие](https://t.me/lab66)
 
 ## статьи
-- Почему надо действовать сейчас https://habr.com/ru/post/491974/
-    - Original version (Eng) https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
+- Почему надо действовать сейчас [https://habr.com/ru/post/491974/](https://habr.com/ru/post/491974/)
+    - Original version (Eng) [https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
 ## техника безопасности
 1. Гигиена. 
