@@ -7,6 +7,7 @@
 - Почему надо действовать сейчас [https://habr.com/ru/post/491974/](https://habr.com/ru/post/491974/)
     - [Original version (Eng)](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - Онлайн-симуляция распространения вируса при социальной активности и дистанцировании https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/
+
 ## техника безопасности
 1. Гигиена. 
     - Мыть руки правильно, использовать гель-антисептик, не трогать грязными руками лицо
@@ -90,6 +91,7 @@
                 - [short tale of a study, looks like the original is Chinese-only: 30 minute heat blow confirmed effective for sterilizing single-use masks](https://www.jqknews.com/news/380240-Scientific_research_paper_the_used_disposable_mask_can_be_reused_after_blowing_for_30_minutes.html)
             - [review of manufacturer instructions on sterilizing reusable masks, and error-free algorithm for health workers](https://www.sciencedirect.com/science/article/pii/S0196655315000899)
             - [manufacturer instruction for SR-100 with immersion in alcohol](https://www.srsafety.com/pub/media/wysiwyg/srsaftey/CompCentre/Articles/Sundstrom_SR_100_Pandemic_Flu_CE.pdf)
+
 ### фильтрация - статьи
 - [про фильтрацию воздуха на случай пандемии](https://medium.com/@steanlab/uvc-b0eeb2a5c2d0)
 - [FAQ по защите органов дыхания и дезинфекции](https://habr.com/ru/post/487176/)
@@ -117,6 +119,7 @@
     - [источник](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/)  
 - озон - концентрации не знаю, эффективен от небольших, но ядовитый
     - человек чувствует от 0.1 ПДК
+
 ### дезинфектанты - статьи
 - [часть 1](https://t.me/lab66/140)
 - [часть 2](https://t.me/lab66/141)
