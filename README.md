@@ -152,11 +152,11 @@
         - раса и наличие рака не влияет на экспрессию ACE2
         - с возрастом экспрессия ACE2 увеличивается в 1.2 раза за +10 лет.
     - про возможный необратимый ущерб органам https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532272
-        - воспаление миокарда https://madmed.media/myopericarditis-coronavirus/
-        - печень https://www.biorxiv.org/content/10.1101/2020.02.03.931766v1
-        - почки и яички https://www.medrxiv.org/content/10.1101/2020.02.12.20022418v1
-            - почки https://www.medrxiv.org/content/10.1101/2020.02.08.20021212v2
-        - сердечно-сосудистая система https://www.nature.com/articles/s41569-020-0360-5.epdf
+        - [воспаление миокарда](https://madmed.media/myopericarditis-coronavirus/) 
+        - [печень](https://www.biorxiv.org/content/10.1101/2020.02.03.931766v1)
+        - [почки и яички](https://www.medrxiv.org/content/10.1101/2020.02.12.20022418v1)
+            - [почки](https://www.medrxiv.org/content/10.1101/2020.02.08.20021212v2)
+        - [сердечно-сосудистая система](https://www.nature.com/articles/s41569-020-0360-5.epdf)
 - [отчеты ВОЗ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) 
     - началось в начале декабря
     - [16 фев 2020](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200216-sitrep-27-covid-19.pdf?sfvrsn=78c0eb78_2)
