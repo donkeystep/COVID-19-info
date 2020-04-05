@@ -117,6 +117,7 @@
 - УФ бактерицидный облучатель 30W - 8 секунд если близко, 15 минут на комнату 15м.
 - медь - 4 часа
     - [источник: Aerosol and Surface Stability of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
+    - [источник: эффект разного содержания меди в сплавах и механизм действия на др. коронавирус человека](https://www.researchgate.net/publication/283685229_Human_Coronavirus_229E_Remains_Infectious_on_Common_Touch_Surface_Materials)
     - [механизмы антимикробного воздействия меди - wikipedia](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Mechanisms_of_antimicrobial_action)
     - [антимикробные поверхности из сплавов меди](https://en.wikipedia.org/wiki/Antimicrobial_copper-alloy_touch_surfaces)
 - влажность 50%: инактивация при 20% - 28 дней, при 50% - 3 дня. При 20’C на стальной поверхности
