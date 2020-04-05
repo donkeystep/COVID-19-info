@@ -118,6 +118,7 @@
 - медь - 4 часа
     - [источник: Aerosol and Surface Stability of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
     - [механизмы антимикробного воздействия меди - wikipedia](https://en.wikipedia.org/wiki/Antimicrobial_properties_of_copper#Mechanisms_of_antimicrobial_action)
+    - [антимикробные поверхности из сплавов меди](https://en.wikipedia.org/wiki/Antimicrobial_copper-alloy_touch_surfaces)
 - влажность 50%: инактивация при 20% - 28 дней, при 50% - 3 дня. При 20’C на стальной поверхности
     - [источник](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/)  
 - озон - концентрации не знаю, эффективен от небольших, но ядовитый
