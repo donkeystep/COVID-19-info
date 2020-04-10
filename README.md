@@ -85,18 +85,20 @@
         - 3M, Spirotek, Uvex, Юлия
         - желательно: с обтюратором, с клапаном
         - начинают пахнуть через несколько дней
+        
     - обеззараживание
-        - многоразовые 
-            - быстрая: протереть тряпкой со спиртом внутри и снаружи 
-            - полная: снять фильтры и вымочить в медицинском дезинфектанте: ЧАС, ПГМГ, с активным хлором
         - в пакет ст. ложку спирта (НЕ МОЧИТЬ ФИЛЬТРЫ), закрыть герметично на 2 часа, для доп. эффекта можно на батарею
         - нагреть до 60° , 30 минут
         - исследования влияния разных типов стерилизации на эффективность фильтра
             - [filter quality of electret masks in filtering 14.6–594 nm aerosol particles: Effects of five decontamination methods](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0186217&fbclid=IwAR1nOWMEYdDRs_Nyq2MRm4GRnSGZtZ1fCc1g8T8oFFlmSGv4nwbZ6Hp6ifE)
+        - [обзор вариантов на русском](https://www.exler.ru/blog/nadezhnyy-sposob-dezinfitsirovat-masku.htm)
             - [article suggesting heat blow](http://www.imcclinics.com/english/index.php/news/view?id=83)
                 - [short tale of a study, looks like the original is Chinese-only: 30 minute heat blow confirmed effective for sterilizing single-use masks](https://www.jqknews.com/news/380240-Scientific_research_paper_the_used_disposable_mask_can_be_reused_after_blowing_for_30_minutes.html)
             - [review of manufacturer instructions on sterilizing reusable masks, and error-free algorithm for health workers](https://www.sciencedirect.com/science/article/pii/S0196655315000899)
             - [manufacturer instruction for SR-100 with immersion in alcohol](https://www.srsafety.com/pub/media/wysiwyg/srsaftey/CompCentre/Articles/Sundstrom_SR_100_Pandemic_Flu_CE.pdf)
+        - многоразовые 
+            - быстрая: протереть тряпкой со спиртом внутри и снаружи 
+            - полная: снять фильтры и вымочить в медицинском дезинфектанте: ЧАС, ПГМГ, с активным хлором
 
 ### фильтрация - статьи
 - [про фильтрацию воздуха на случай пандемии](https://medium.com/@steanlab/uvc-b0eeb2a5c2d0)
