@@ -8,7 +8,7 @@
 - Почему надо действовать сейчас [https://habr.com/ru/post/491974/](https://habr.com/ru/post/491974/)
     - [Original version (Eng)](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - Онлайн-симуляция распространения вируса при социальной активности и дистанцировании [https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/](https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/)
-- Информация для врачей - переводы, пополняется http://relaxandoit.ru/air
+- Информация для врачей - переводы, пополняется [http://relaxandoit.ru/air](http://relaxandoit.ru/air)
 
 ## техника безопасности
 1. Гигиена. 
