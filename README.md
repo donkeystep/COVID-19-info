@@ -59,6 +59,8 @@
     - пропитывание солью в разы повышает эффективность маски против вирусов [https://www.nature.com/articles/srep39956](https://www.nature.com/articles/srep39956)
         - [более поздняя статья этого же автора](https://www.ncbi.nlm.nih.gov/pubmed/28733078)
         - [дискуссия ycombinator](https://news.ycombinator.com/item?id=22232633) [дискуссия reddit](https://www.reddit.com/r/COVID19/comments/fj6dg8/universal_and_reusable_virus_deactivation_system/)
+        - другое исследование 2020 про эффект покрытия фильтров морской солью на инактивацию био-содержащих аэрозолей [Antimicrobial Air Filters Using Natural Sea Salt
+Particles for Deactivating Airborne Bacterial Particles](https://www.mdpi.com/1660-4601/17/1/190/pdf)
 - [обзор средств защиты от COVID-19](https://www.researchgate.net/publication/340363419_A_Look_at_COVID_19_in_Terms_of_1_Respiratory_Protection)
 - аэрозольные фильтры - для аэрозолей и частиц от 100нм. Уровни: 
     - P2 (95%)
