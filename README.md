@@ -12,6 +12,13 @@
 - Онлайн-симуляция распространения вируса при социальной активности и дистанцировании [https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/](https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/)
 - Информация для врачей - переводы, пополняется [http://relaxandoit.ru/air](http://relaxandoit.ru/air)
 
+## помощь врачам
+- Ребята на пожертвования закупают респираторы и бесплатно передают врачам [https://tglink.ru/vrachivyneodni/4873](https://tglink.ru/vrachivyneodni/4873)
+    - я перевел 20к руб
+- Сообщество энтузиастов 3D-печати и т.п. на пожертвования производит щитки, переходники с подводных масок на фильтры ИВЛ, защитные боксы для бесплатной передачи врачам https://boomstarter.ru/projects/999127/proizvodstvo_siz_dlya_meditsinskih_rabotnikov/posts#content
+    - чат [https://tglink.ru/help3d_covid19](https://tglink.ru/help3d_covid19)
+    - я перевел 40к руб
+
 ## техника безопасности
 1. Гигиена. 
     - Мыть руки правильно, использовать гель-антисептик, не трогать грязными руками лицо
