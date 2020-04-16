@@ -1,5 +1,7 @@
 Есть предложения/замечания? [Пишите сюда: https://github.com/donkeystep/COVID-19-info/issues](https://github.com/donkeystep/COVID-19-info/issues)
 
+[Фото: https://www.instagram.com/sergey_voronov_2][https://www.instagram.com/sergey_voronov_2]
+
 Это собрание ссылок, не рекомендую ничего из перечисленного для чего либо.
 Значительная часть информации из канала [Научный + Технический - Хроники хабрахимика - Sci DIY - Наукоёмкое Самоделие](https://t.me/lab66)
 
