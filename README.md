@@ -1,4 +1,4 @@
-Есть предложения/замечания? Пишите сюда: [https://github.com/donkeystep/COVID-19-info/issues](https://github.com/donkeystep/COVID-19-info/issues)
+Предложения/замечания? Пишите сюда: [https://github.com/donkeystep/COVID-19-info/issues](https://github.com/donkeystep/COVID-19-info/issues)
 
 Фото: [https://www.instagram.com/sergey_voronov_2](https://www.instagram.com/sergey_voronov_2)
 
@@ -13,6 +13,7 @@
     - [Original version (Eng)](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - Онлайн-симуляция распространения вируса при социальной активности и дистанцировании [https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/](https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/)
 - Информация для врачей - переводы, пополняется [http://relaxandoit.ru/air](http://relaxandoit.ru/air)
+- [Рекомендации ВОЗ по питанию в период пандемии](https://rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=14176)
 
 ## помощь врачам
 Ни для кого не секрет, что врачам сейчас непросто, а средств защиты при вспышках не хватает во всём мире. Поэтому вот пара проектов:
