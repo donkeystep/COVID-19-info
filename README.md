@@ -1,5 +1,6 @@
 Есть предложения/замечания? 
-[Пишите в репозиторий этой странички: https://github.com/donkeystep/COVID-19-info/issues](https://github.com/donkeystep/COVID-19-info/issues)
+
+[Пишите сюда: https://github.com/donkeystep/COVID-19-info/issues](https://github.com/donkeystep/COVID-19-info/issues)
 
 Это собрание ссылок, не рекомендую ничего из перечисленного для чего либо.
 Значительная часть информации из канала [Научный + Технический - Хроники хабрахимика - Sci DIY - Наукоёмкое Самоделие](https://t.me/lab66)
